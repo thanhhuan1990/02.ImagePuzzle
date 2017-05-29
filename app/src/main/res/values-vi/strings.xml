@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Image Puzzle</string>
+    
+    <string name="Guide">Nhìn kỹ bức ảnh sau. \n\t		-> Bắt đầu chơi khi bạn sẵn sàng!!!</string>
+    
+    <string name="Repick">Ảnh Bạn Chọn Quá Nhỏ!!!\n
+        					Bạn Có Muốn Sử Dụng Ảnh Này?</string>
+    <string name="Repick_repick">Chọn Lại</string>
+    <string name="Repick_continue">Tiếp Tục</string>
+    					
+    <string name="popup_title">Chọn mức độ khó</string>
+    <string name="popup_column">Số dòng và cột</string>
+    
+    <string name="Success">CHÚC MỪNG!!!\nBẠN ĐÃ CHIẾN THẮNG!!!</string>
+    
+    <string name="Result_List_Title">KẾT QUẢ CỦA BẠN!!!</string>
+
+</resources>

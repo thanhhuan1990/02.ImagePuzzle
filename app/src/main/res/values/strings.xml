@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Image Puzzle</string>
+    
+    <string name="Admob_Key_Interstitial">ca-app-pub-9710312053534636/8830631705</string>
+    <string name="Admob_Key_Banner">ca-app-pub-9710312053534636/1996865700</string>
+    
+    <string name="Guide">Look this picture carefully. \n\t		-> Start game when you are ready!!!</string>
+    
+    <string name="Repick">Your Image Is Too Small!!!\n
+        					Do You Want To Use It?</string>
+    <string name="Repick_repick">Repick</string>
+    <string name="Repick_continue">Continue</string>
+    <string name="popup_title">Select puzzles to start game</string>
+    <string name="popup_column">Number of Row and Column</string>
+    
+    <string name="Camera_Doesnt_Exist"></string>
+    
+    <string name="Success">CONGRATULATION!!!\nYOU WIN!!!</string>
+    
+    <string name="Result_List_Title">YOUR RESULT!!!</string>
+    
+    <string name="app_id">1560542150891601</string>
+    <string name="permission_not_granted">Unable to perform selected action because permissions were not granted.</string>
+    <string name="success">Success</string>
+    <string name="photo_post">Photo Post</string>
+    <string name="successfully_posted_post">Successfully posted \'%1$s\'.\nPost ID: %2$s</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="cancelled">Cancelled</string>
+
+</resources>
